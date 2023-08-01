@@ -1,0 +1,12 @@
+[submodule "bashrc_config"]
+	path = bashrc_config
+	url = git@github.com:bradfordben/bashrc_config.git
+[submodule "git_config"]
+	path = git_config
+	url = git@github.com:bradfordben/git_config.git
+[submodule "tmux_config"]
+	path = tmux_config
+	url = git@github.com:bradfordben/tmux_config.git
+[submodule "vim_config"]
+	path = vim_config
+	url = git@github.com:bradfordben/vim_config.git
